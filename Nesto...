@@ -1,4 +1,4 @@
-'D10.Text10.Text = ListBox1.Items(10)
+                D10.Text10.Text = ListBox1.Items(10)
                 D10.Text11.Text = ListBox1.Items(11)
                 D10.Text12.Text = ListBox1.Items(12)
                 D10.Text13.Text = ListBox1.Items(13)
